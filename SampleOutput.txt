@@ -1,0 +1,81 @@
+    Author : Justin Porteous
+    Student : 51565579
+    Assignment 2 Question 1
+    Unique assignment no: 576441
+    GitHub: https://github.com/JGPorteous/COS2614_A2Q1
+---------------------------------------------------------
+
+Savings Account:
+        Customer Name: Justin Porteous
+        Account Number: 178657856
+
+Most Frequent Transaction Type: Couldn't determine most frequent transaction
+
+
+Checking Total costs so far R0
+
+Adding First Deposit
+Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+ Deposit amount R100, Service Fee R2.5
+
+Checking Total costs so far R2.5
+
+Adding Second Deposit
+Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+ Deposit amount R5412, Service Fee R2.5
+Adding Third Deposit
+Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+ Deposit amount R2648, Service Fee R2.5
+
+Checking Total costs so far R7.5
+
+Add First cash withdrawal
+Transaction Type: Withdrawal, Date of Transaction Mon Mar 30 20:23:11 2015
+ Withdrawal of R500, Service fee R7.5
+
+Adding First Balance Enquiry
+Transaction Type: Balance Enquiry, Date of Transaction Mon Mar 30 20:23:11 2015
+ Balance with date range from: Thu Jan 1 2015 to: Thu Jan 1 2015
+
+Checking Total costs so far R15
+
+Add Second cash withdrawal
+Transaction Type: Withdrawal, Date of Transaction Mon Mar 30 20:23:11 2015
+ Withdrawal of R395, Service fee R5.925
+
+Checking Total costs so far R20.925
+
+
+
+Adding Second Balance Enquiry
+Transaction Type: Balance Enquiry, Date of Transaction Mon Mar 30 20:23:11 2015
+ Balance with date range from: Fri Jan 2 2015 to: Fri Jan 2 2015
+
+Adding Forth Deposit
+Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+ Deposit amount R5412, Service Fee R2.5
+
+Savings Account:
+        Customer Name: Justin Porteous
+        Account Number: 178657856
+
+Transaction Details:
+        Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Withdrawal, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Balance Enquiry, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Withdrawal, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Balance Enquiry, Date of Transaction Mon Mar 30 20:23:11 2015
+
+        Transaction Type: Deposit, Date of Transaction Mon Mar 30 20:23:11 2015
+Most Frequent Transaction Type: Deposit
+
+
+Press <RETURN> to close this window...
